@@ -1,0 +1,35 @@
+_repo: An-Essay-on-Criticism_35159
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Oldmixon, Mr. (John)
+    aliases:
+    - Oldmixon, J. (John)
+    - Oldmixon, John
+    birthdate: 1673
+    deathdate: 1742
+    gutenberg_agent_id: '28406'
+    url: http://www.gutenberg.org/2009/agents/28406
+    wikipedia: http://en.wikipedia.org/wiki/John_Oldmixon
+  editor:
+    agent_name: Madden, R. J.
+    gutenberg_agent_id: '37503'
+    url: http://www.gutenberg.org/2009/agents/37503
+description: ''
+gutenberg_issued: '2011-02-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35159'
+  lccn: '66001694'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Criticism'
+- !lcc 'PN'
+title: An Essay on Criticism
+url: http://www.gutenberg.org/ebooks/35159
